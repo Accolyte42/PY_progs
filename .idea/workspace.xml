@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="188569d0-9332-40d4-91a2-6aee2fe6f3ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1exXZEq7pK0sJC1u9eNsEm6wAe7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/diplom/Ado" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PY progs\diplom\Ado" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Signal_test_post">
+    <configuration name="Signal_test_post (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PY progs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diplom/Ado" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diplom/Ado/Signal_test_post.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Signal_test_post" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PY progs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diplom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diplom/Signal_test_post.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PY progs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diplom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diplom/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_xlrd_xlwt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PY progs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diplom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diplom/Test_xlrd_xlwt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Xlsx_work (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PY progs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diplom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diplom/Xlsx_work.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Signal_test_post" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.Signal_test_post (1)" />
+        <item itemvalue="Python.Test_xlrd_xlwt" />
+        <item itemvalue="Python.Xlsx_work (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="188569d0-9332-40d4-91a2-6aee2fe6f3ca" name="Default Changelist" comment="" />
+      <created>1595264270970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595264270970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1088" y="198" key="FileChooserDialogImpl" timestamp="1598050746072">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1088" y="198" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1598050746072" />
+    <state width="1835" height="296" key="GridCell.Tab.0.bottom" timestamp="1600684200648">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1835" height="296" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1600684200648" />
+    <state width="1835" height="296" key="GridCell.Tab.0.center" timestamp="1600684200647">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1835" height="296" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1600684200647" />
+    <state width="1835" height="296" key="GridCell.Tab.0.left" timestamp="1600684200647">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1835" height="296" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1600684200647" />
+    <state width="1835" height="296" key="GridCell.Tab.0.right" timestamp="1600684200648">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1835" height="296" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1600684200648" />
+    <state width="903" height="359" key="GridCell.Tab.1.bottom" timestamp="1600560280266">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="903" height="359" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1600560280266" />
+    <state width="903" height="359" key="GridCell.Tab.1.center" timestamp="1600560280265">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="903" height="359" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1600560280265" />
+    <state width="903" height="359" key="GridCell.Tab.1.left" timestamp="1600560280265">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="903" height="359" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1600560280265" />
+    <state width="903" height="359" key="GridCell.Tab.1.right" timestamp="1600560280265">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="903" height="359" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1600560280265" />
+    <state x="92" y="216" key="SettingsEditor" timestamp="1600685168524">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="92" y="216" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1600685168524" />
+    <state x="55" y="0" width="943" height="1087" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600684202804">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="55" y="0" width="943" height="1087" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1600684202804" />
+    <state x="89" y="271" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597586635211">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="89" y="271" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/62.0.1858.1080@62.0.1858.1080" timestamp="1597586635211" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1600548577391">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1600548577391" />
+    <state x="189" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1600634499783">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="189" y="240" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1600634499783" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
